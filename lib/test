@@ -1,0 +1,7 @@
+{"coord":{"lon":12.5979,"lat":-1.3436},
+"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],
+"base":"stations","main":{"temp":295.13,"feels_like":295.84,"temp_min":295.13,
+"temp_max":295.13,"pressure":1015,"humidity":94,"sea_level":1015,"grnd_level":945},
+"visibility":10000,"wind":{"speed":0.69,"deg":35,"gust":1.31},
+"clouds":{"all":100},"dt":1699861725,"sys":{"country":"GA","sunrise":1699850921,"sunset":1699894748},
+"timezone":3600,"id":2399959,"name":"Koulamoutou","cod":200}
